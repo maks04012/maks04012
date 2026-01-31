@@ -1,16 +1,13 @@
-## Hi there 👋
+### maks04012   
 
-<!--
-**maks04012/maks04012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner developer, working on Data Science and ML
 
-Here are some ideas to get you started:
+**knows:**  
+![Python](https://skillicons.dev/icons?i=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**learning:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+
+
+**Software**  
+![GitHub](https://skillicons.dev/icons?i=github) ![Windows](https://skillicons.dev/icons?i=windows) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Discord](https://skillicons.dev/icons?i=discord)
