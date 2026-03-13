@@ -1,6 +1,6 @@
 ### maks04012   
 
-I am a beginner developer, working on Data Science and ML
+I am a beginner developer, Im learning Data Science and ML
 
 **knows:**  
 ![Python](https://skillicons.dev/icons?i=python)
